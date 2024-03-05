@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer currently freelancing, who has recently discovered a passion for React.
+I am a frontend developer currently freelancing, who has recently discovered a passion for Three.js!
 
 * 🌍  I'm based in London & Lisbon
 * 🖥️  See my portfolio at [HERE :)](http://react-portfolio-bruno.netlify.app/)
