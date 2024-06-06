@@ -11,7 +11,7 @@ I am a frontend developer currently freelancing, who has recently discovered a p
 * ✉️  You can contact me at [bbc.silva@gmail.com](mailto:bbc.silva@gmail.com)
 * 🧠  I'm learning Angular & Python
 * 🤝  I'm open to collaborating on Code and Music Projects
-* ⚡  Luffy is the best MC to ever be written
+* ⚡  One Piece > Naruto
 
 ### Skills
 
