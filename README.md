@@ -9,7 +9,7 @@ I am a frontend developer currently freelancing, who has recently discovered a p
 * 🌍  I'm based in London & Lisbon
 * 🖥️  See my portfolio at [HERE :)](http://react-portfolio-bruno.netlify.app/)
 * ✉️  You can contact me at [bbc.silva@gmail.com](mailto:bbc.silva@gmail.com)
-* 🧠  I'm learning Angular & Python
+* 🧠  Currently learning Angular & Python
 * 🤝  I'm open to collaborating on Code and Music Projects
 * ⚡  One Piece > Naruto
 
