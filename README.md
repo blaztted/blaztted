@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer currently freelancing, who has recently discovered a passion for Three.js!
 
 * 🌍  I'm based in London & Lisbon
 * 🖥️  See my portfolio at [HERE :)](http://react-portfolio-bruno.netlify.app/)
 * ✉️  You can contact me at [bbc.silva@gmail.com](mailto:bbc.silva@gmail.com)
-* 🧠  Currently learning Angular & Python
+* 🧠  Currently learning Angular
 * 🤝  I'm open to collaborating on Code and Music Projects
 * ⚡  One Piece > Naruto
 
